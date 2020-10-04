@@ -1,0 +1,9 @@
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\bin\Debug\Client.exe.config
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\bin\Debug\Client.exe
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\bin\Debug\Client.pdb
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.ClientForm.resources
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.Properties.Resources.resources
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.exe
+E:\$_School\4_1\Mã Hoá\Project\Chat App\Client\obj\Debug\Client.pdb
